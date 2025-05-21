@@ -16,7 +16,7 @@ Welcome to my journey of learning Machine Learning by implementing **1 model per
 
 | Day | Model | Notebook |
 |-----|-------|----------|
-| 1   | Linear Regression | [Day01_Linear_Regression.ipynb](Day01_Linear_Regression.ipynb) |
+| 1   | Linear Regression | [Day01_Linear_Regression.ipynb](Linear Regression.ipynb) |
 
 
 
